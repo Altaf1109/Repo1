@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+01/04/2025 Tuesday
+
+>>>>>>> main
 1. What does the git pull command do?
 A) Downloads changes from the remote repository but does not merge them
 B) Downloads and merges changes from the remote repository into the local branch
@@ -47,11 +52,13 @@ C) git pull --rebase
 D) git pull --hard
 ------------
 9. Which of the following situations requires a git pull?
-A) Git will automatically resolve the conflicts
-B) Git will abort the pull and discard remote changes
-C) Git will pause and ask you to manually resolve the conflicts
-D) Git will automatically commit the conflicting changes
-s
+
+
+A) When you want to update your local branch with the latest remote changes
+B) When you want to push your local changes to the remote repository
+C) When you want to create a new repository
+D) When you want to delete a remote branch
+
 --------------
 10. What happens if there are merge conflicts after running git pull?
 A) Git will automatically resolve the conflicts
