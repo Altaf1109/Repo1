@@ -5,10 +5,10 @@ C) Only merges local branches
 D) Pushes local changes to the remote repository
 ---------------
 2. What is the default behavior of git pull?
-A) Fetch changes from remote but do not apply them
-B) Fetch and merge changes from the remote branch into the current branch
-C) Delete the current branch and create a new one from remote
-D) Push changes to the remote repository
+A) Downloads changes from the remote repository but does not merge them
+B) Downloads and merges changes from the remote repository into the local branch
+C) Only merges local branches
+D) Pushes local changes to the remote repository
 ----------------
 3. Which of the following commands is equivalent to git pull?
 A) git fetch && git merge
